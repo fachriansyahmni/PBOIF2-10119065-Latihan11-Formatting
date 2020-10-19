@@ -1,3 +1,4 @@
+package pboif2_10119065_latihan11_formatting;
 /*
  * @author
  * NAMA                 : Fachriansyah Muhammad Nur Ihsan
@@ -6,7 +7,6 @@
  * Deskripsi Program    : Program ini berisi program formatting
  *
  */
-package pboif2_10119065_latihan11_formatting;
 public class PBOIF2_10119065_Latihan11_Formatting {
 
     public static void main(String[] args) {
